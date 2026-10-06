@@ -62,7 +62,7 @@ Most of my professional work is not production code. I use GitHub to turn practi
 ## By the numbers
 
 - Five years working directly in iGaming
-- 10+ slot titles delivered or managed through production
+- 40+ slot titles delivered or managed through production
 - Two to three concurrent game productions
 - More than 25 creative, technical, compliance and business stakeholders coordinated across a production
 - Helped reduce reskin production cycles from approximately 18 weeks to 13–15 weeks through clearer milestones, earlier alignment, greater reuse and parallel workflows
