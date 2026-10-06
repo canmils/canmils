@@ -31,11 +31,11 @@ I've been in iGaming long enough to know that the difficult part is rarely the o
 
 Most of my professional work is not production code. I use GitHub to turn practical product and production experience into tools, templates and experiments that other teams can use.
 
-- **[igaming-release-checklist](https://github.com/canmils/igaming-release-checklist)** — Certification preparation, QA gates and go-live checks for regulated game releases
-- **[slot-producer-toolkit](https://github.com/canmils/slot-producer-toolkit)** — Planning templates, dependency tracking and stakeholder frameworks for game production teams
-- **[ai-prompts-for-game-production](https://github.com/canmils/ai-prompts-for-game-production)** — AI workflows designed around real production and delivery problems
-- **[head-of-games-simulator](https://github.com/canmils/head-of-games-simulator)** — A work-in-progress simulation for practising portfolio, roadmap and studio-management decisions
-- **[job-search-bot](https://github.com/canmils/job-search-bot)** — A Python experiment for finding and filtering relevant gaming and iGaming roles
+- **[igaming-release-checklist](https://github.com/canmils/igaming-release-checklist)**: Certification preparation, QA gates and go-live checks for regulated game releases
+- **[slot-producer-toolkit](https://github.com/canmils/slot-producer-toolkit)**: Planning templates, dependency tracking and stakeholder frameworks for game production teams
+- **[ai-prompts-for-game-production](https://github.com/canmils/ai-prompts-for-game-production)**: AI workflows designed around real production and delivery problems
+- **[head-of-games-simulator](https://github.com/canmils/head-of-games-simulator)**: A work-in-progress simulation for practising portfolio, roadmap and studio-management decisions
+- **[job-search-bot](https://github.com/canmils/job-search-bot)**: A Python experiment for finding and filtering relevant gaming and iGaming roles
 
 ---
 
@@ -72,7 +72,7 @@ Most of my professional work is not production code. I use GitHub to turn practi
 
 ## On AI and product delivery
 
-I'm interested in how AI is changing product and production work — not by replacing judgement, but by reducing the friction between decisions and execution.
+I'm interested in how AI is changing product and production work, not by replacing judgement, but by reducing the friction between decisions and execution.
 
 The projects here document workflows I use, test or develop to improve planning, communication, delivery and decision-making.
 
