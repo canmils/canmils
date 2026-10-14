@@ -79,3 +79,17 @@ The projects here document workflows I use, test or develop to improve planning,
 ---
 
 *If you work in gaming, iGaming or product delivery and want to compare notes, [connect with me on LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/).*
+
+## Visiting this profile
+
+This is a GitHub profile README, not an application; nothing needs installing. Follow a project link and read its own scope/setup. Private links are visible only to invited collaborators. Public runnable projects include [SteamLens](https://github.com/canmils/steamlens) and [AdLens](https://github.com/canmils/adlens). Suggest profile corrections through an issue or pull request; do not add unverified career/performance claims.
+
+## Update, troubleshoot and contribute
+
+Stop the app with Ctrl+C. Back up your own configuration, inputs and outputs first. Run `git status`; commit tracked edits on a branch before pulling. Then `git pull --ff-only` and reinstall dependencies with the same environment/package manager used above. Restart with the documented run command. Resolve divergent history instead of forcing away changes.
+
+Missing command: install the prerequisite and reopen the terminal. Missing module: use the same interpreter/package manager for install and run. Missing file: check the repository root and sample setup. Port busy: stop the earlier server. Provider failure: check key, credit, model access and connectivity; repeated calls can incur another charge.
+
+Report bugs or suggest changes at https://github.com/canmils/canmils/issues. Include OS/runtime, commit, exact command, safe sample, sanitized error and expected/actual result. See [CONTRIBUTING.md](CONTRIBUTING.md) for fork → branch → test → pull request. Never share keys or private company data.
+
+See [ONBOARDING_CHECKS.md](ONBOARDING_CHECKS.md) for checks actually run and limits.
