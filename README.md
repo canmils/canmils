@@ -22,7 +22,7 @@ Each README has a first-use walkthrough with a fictional or public example, so y
 
 - **[slot-pitch-agent](https://github.com/canmils/slot-pitch-agent)**: drafts slot concepts from portfolio context you supply (OpenAI key required)
 - **[weekly-report-agent](https://github.com/canmils/weekly-report-agent)**: turns pasted production notes into an editable weekly report draft (OpenAI key required)
-- **[igaming-release-checklist](https://github.com/canmils/igaming-release-checklist)**: certification preparation, QA gates and go-live checks for regulated game releases
+- **[slot-gdd-multiagent](https://github.com/canmils/slot-gdd-multiagent)**: turns a slot description into a GDD draft where every unknown is marked TBD (OpenAI key required)
 - **[ai-prompts-for-game-production](https://github.com/canmils/ai-prompts-for-game-production)**: AI prompts built around real production and delivery problems
 
 **On hold:** a Head of Games simulator for practising portfolio, roadmap and studio-management decisions.
