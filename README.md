@@ -20,9 +20,8 @@ Each README has a first-use walkthrough with a fictional or public example, so y
 
 ### Also maintained
 
-- **[slot-pitch-agent](https://github.com/canmils/slot-pitch-agent)**: drafts slot concepts from portfolio context you supply (OpenAI key required)
+- **[Slot-REA](https://github.com/canmils/Slot-REA)**: turns sourced slot evidence into a GDD draft, a reference pitch and a list of open questions, with unknowns kept as TBD. Free offline workflow; includes the earlier GDD and pitch generators (OpenAI key required for those)
 - **[weekly-report-agent](https://github.com/canmils/weekly-report-agent)**: turns pasted production notes into an editable weekly report draft (OpenAI key required)
-- **[slot-gdd-multiagent](https://github.com/canmils/slot-gdd-multiagent)**: turns a slot description into a GDD draft where every unknown is marked TBD (OpenAI key required)
 
 **On hold:** a Head of Games simulator for practising portfolio, roadmap and studio-management decisions.
 
