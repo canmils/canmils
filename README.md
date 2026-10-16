@@ -1,90 +1,50 @@
-# Hi, I'm Joan Casellas 👋
+# Joan Casellas
 
-**Senior Game Producer & Product Owner · iGaming · Product Delivery**
+**Senior Game Producer & Product Owner · Gaming and iGaming**
 
-Barcelona, Spain · [LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/) · Currently at [Play'n GO](https://www.playngo.com/)
+Barcelona, Spain · [LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/)
 
-I build small, honest tools for game producers and marketers. Each one says what it does, what it does not do, and runs locally.
+I turn product goals into scoped work, coordinate multidisciplinary teams and take games through development, certification and release. My background spans regulated slot production at Play'n GO, product ownership at Derivco Sports, and digital product and consulting roles.
 
----
+Here I publish small games and tools that make that work tangible: something you can play, an output you can inspect, or a workflow you can reproduce.
 
-## Start here
+## Play the prototypes
 
-| Project | What you get | Free without an API key? |
+No installation, account or API key needed.
+
+| Project | Try it | What it demonstrates |
 | --- | --- | --- |
-| **[SteamLens](https://github.com/canmils/steamlens)** | Steam store page checklist and side-by-side comparison with up to three games | Yes. AI review is optional |
-| **[AdLens](https://github.com/canmils/adlens)** | Ad crops, copy, offers and CTAs collected from a public page, with CSV export | Yes. Capture and notes need no key |
-| **[Slot PM Agents](https://github.com/canmils/slot-pm-agents)** | What an AI agent should do in a slot studio, what data it needs, and where a person must decide | Yes. Library plus a synthetic-data example |
+| **Retro Air Fighter** | [Play](https://canmils.github.io/retro-air-fighter/) · [Source](https://github.com/canmils/retro-air-fighter) · [Case study](https://github.com/canmils/retro-air-fighter/blob/main/PORTFOLIO.md) | A tightly scoped arcade MVP: keyboard and touch controls, a complete mission, restart and a feedback route |
+| **Pocket Reels** | [Play](https://canmils.github.io/pocket-reels/) · [Source](https://github.com/canmils/pocket-reels) · [Case study](https://github.com/canmils/pocket-reels/blob/main/PORTFOLIO.md) | A fictional-credit slot with explicit rules, visible paylines and a mathematical model covering all 8,000 stop combinations |
 
-Each README has a first-use walkthrough with a fictional or public example, so you can see the result before deciding to go further.
+**My role in these games:** product direction, MVP scope, reference selection and release coordination. Implementation was AI-assisted. These are early browser prototypes; they do not establish player retention, monetisation performance or native mobile delivery.
 
-### Also maintained
+## Explore the tools
 
-- **[Slot-REA](https://github.com/canmils/Slot-REA)**: turns sourced slot evidence into a GDD draft, a reference pitch and a list of open questions, with unknowns kept as TBD. Free offline workflow; includes the earlier GDD and pitch generators (OpenAI key required for those)
-- **[weekly-report-agent](https://github.com/canmils/weekly-report-agent)**: turns pasted production notes into an editable weekly report draft (OpenAI key required)
+| Project | Problem addressed | See the evidence |
+| --- | --- | --- |
+| **[SteamLens](https://github.com/canmils/steamlens)** | Reviewing a Steam store page against up to three chosen games | [Worked example](https://github.com/canmils/steamlens/tree/main/examples). Free checklist and comparison; optional paid AI review |
+| **[Slot PM Agents](https://github.com/canmils/slot-pm-agents)** | Defining useful agent work and human decisions in a slot studio | [Portfolio report](https://github.com/canmils/slot-pm-agents/blob/main/examples/portfolio_review/report.md) · [Comparables](https://github.com/canmils/slot-pm-agents/blob/main/examples/comparables/comparables.md). Fictional data and runnable examples |
+| **[Slot-REA](https://github.com/canmils/Slot-REA)** | Turning sourced game evidence into reviewable documentation | [Example outputs](https://github.com/canmils/Slot-REA/tree/main/examples/expected). Offline GDD and reference-pitch drafts; missing information remains explicit |
+| **[AdLens](https://github.com/canmils/adlens)** | Organising visible ad evidence for creative research | [Worked example](https://github.com/canmils/adlens/tree/main/examples). Screenshot crops, reviewed notes and CSV exports; website capture is best effort |
 
-**On hold:** a Head of Games simulator for practising portfolio, roadmap and studio-management decisions.
+These tools document their inputs, costs and limits. Examples use fictional or public material; they are not evidence of commercial impact.
 
----
+## Professional experience
 
-## What I do
+- **Play'n GO — Senior Game Producer:** delivery of regulated slot games across concurrent productions, coordinating creative, technical, QA and compliance work.
+- **Derivco Sports — Product Owner, Gaming:** priorities, requirements, backlogs and player journeys for sportsbook and casino products.
+- **Qualita Solutions & NTT DATA — Product roles:** digital platforms, data products and cross-functional delivery.
+- **Accenture — Data & Analytics Consultant:** technology delivery and stakeholder coordination.
 
-I turn product goals into things teams can actually build, release and improve.
+My core work: product ownership, roadmap and backlog prioritisation, release planning, dependencies, production risk and stakeholder alignment. See [LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/) for my career history.
 
-I have worked on both sides of iGaming: as a Product Owner for sportsbook and casino products, and as a Senior Game Producer delivering regulated slot games.
+## Other projects
 
-My work sits between product, technology and delivery. I define priorities, maintain roadmaps and backlogs, coordinate multidisciplinary teams and keep releases moving when requirements or constraints change.
+- [Weekly Report Agent](https://github.com/canmils/weekly-report-agent): local production-note and report drafting workflow; AI generation requires your own key.
+- [AI Prompts for Game Production](https://github.com/canmils/ai-prompts-for-game-production): editable communication, planning and review templates.
+- [Catalan Music Radar](https://github.com/canmils/catala-music-radar): personal release-discovery tool using MusicBrainz.
 
-I've been in iGaming long enough to know that the difficult part is rarely the original idea. It's the 200 decisions between kickoff and release.
+## Feedback
 
----
-
-## Background
-
-- **Play'n GO — Senior Game Producer:** End-to-end delivery of regulated slot games across multiple concurrent productions
-- **Derivco Sports — Product Owner, Gaming:** Backlog, priorities, requirements and player journeys for Betway sportsbook and casino products
-- **Qualita Solutions & NTT DATA — Product roles:** Digital platforms, data products and cross-functional delivery
-- **Accenture — Data & Analytics Consultant:** Technology delivery in complex client and stakeholder environments
-
----
-
-## Skills & tools
-
-**Product**
-
-`Product ownership` `Roadmaps` `Backlog prioritisation` `Requirements` `User journeys` `Business value`
-
-**Production and delivery**
-
-`Release planning` `Dependency management` `Milestone tracking` `Risk management` `Stakeholder alignment` `Process improvement`
-
-**Gaming and iGaming**
-
-`Slot game production` `Sportsbook and casino products` `Regulated markets` `Certification readiness` `QA alignment` `Player-facing releases`
-
-**Tools**
-
-`Jira` `Confluence` `Miro` `Slack` `Excel/Sheets` `Agile delivery` `AI-assisted workflows`
-
----
-
-## By the numbers
-
-- Five years working directly in iGaming
-- 40+ slot titles delivered or managed through production
-- Two to three concurrent game productions
-- More than 25 creative, technical, compliance and business stakeholders coordinated across a production
-- Helped reduce reskin production cycles from approximately 18 weeks to 13–15 weeks through clearer milestones, earlier alignment, greater reuse and parallel workflows
-- Experience delivering products across multiple regulated markets
-
----
-
-## On AI and product delivery
-
-I'm interested in how AI is changing product and production work, not by replacing judgement, but by reducing the friction between decisions and execution.
-
-The projects here document workflows I use, test or develop to improve planning, communication, delivery and decision-making.
-
----
-
-*If you work in gaming, iGaming or product delivery and want to compare notes, [connect with me on LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/). Found a problem in one of the projects? Open an issue in that repository.*
+Try a demo or worked example, then open an issue in that project's repository. Device/browser, reproduction steps and expected versus actual behaviour are useful. To discuss gaming, iGaming or product delivery, [connect on LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/).
