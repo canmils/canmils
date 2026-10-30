@@ -2,7 +2,7 @@
 
 **Game production · Product ownership · AI-assisted tools**
 
-Barcelona, Spain · Fully remote across the EU · [LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/)
+Barcelona area, Spain · Remote · [LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/)
 
 I turn ambiguous product ideas into scoped, reviewable releases. My background spans regulated game production at Play'n GO, product ownership at Derivco Sports, digital products and technology consulting.
 
@@ -22,8 +22,8 @@ I turn ambiguous product ideas into scoped, reviewable releases. My background s
 
 ## What I bring to a team
 
-- Manage a portfolio of 6–8 games and workstreams, including 2–3 active productions in parallel and approximately 15 releases per year.
-- Coordinate 25+ stakeholders across creative, technical, QA, compliance, commercial and partner functions.
+- Manage 6–8 game productions in parallel across development, certification and release, with approximately 15 commercial releases per year.
+- Coordinate development, maths, art, animation, QA, compliance, technical compliance, integration, release, marketing, commercial, finance and external studios.
 - Helped reduce reskin production cycles from approximately 18 weeks to 13–15 weeks through clearer milestones, scope controls, parallel workflows and earlier alignment.
 - Previously owned gaming backlogs and release plans across client, backend, platform, security and compliance dependencies.
 
