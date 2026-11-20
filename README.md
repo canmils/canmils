@@ -12,11 +12,11 @@ I turn ambiguous product ideas into scoped, reviewable releases. My background s
 | --- | --- | --- |
 | **[SteamLens](https://github.com/canmils/steamlens)** | Indie developers reviewing a Steam store page against games they choose | [Worked example](https://github.com/canmils/steamlens/blob/main/examples/README.md) · Free local checklist; optional paid AI |
 | **[Slot PM Agents](https://github.com/canmils/slot-pm-agents)** | Producers and developers deciding what to automate in a slot studio | [Read a portfolio report](https://github.com/canmils/slot-pm-agents/blob/main/examples/portfolio_review/report.md) · Fictional data |
-| **[OcaGo](https://github.com/canmils/OcaGo)** | Players trying an illustrated, mobile-first Game of the Goose | [Play in your browser](https://canmils.github.io/OcaGo/) · Local computer opponents |
+| **[Retro Air Fighter](https://github.com/canmils/retro-air-fighter)** | Players who want a short 8-bit arcade shooter in the browser | [Play in your browser](https://canmils.github.io/retro-air-fighter/) · [Product case study](https://github.com/canmils/retro-air-fighter/blob/main/PORTFOLIO.md) |
 
-[![OcaGo browser screenshot: illustrated spiral board and three-player roster](https://raw.githubusercontent.com/canmils/OcaGo/main/docs/screenshots/game-1440.png)](https://canmils.github.io/OcaGo/)
+[![Retro Air Fighter start screen: 8-bit plane and the first mission](https://raw.githubusercontent.com/canmils/retro-air-fighter/main/docs/preview.jpg)](https://canmils.github.io/retro-air-fighter/)
 
-*OcaGo: recorded browser capture from the repository. [Play](https://canmils.github.io/OcaGo/) · [Read the rules and scope](https://github.com/canmils/OcaGo#rules).*
+*Retro Air Fighter: preview image from the repository. [Play](https://canmils.github.io/retro-air-fighter/) · [Source](https://github.com/canmils/retro-air-fighter).*
 
 **My role:** product direction, MVP scope, reference selection and release coordination. Implementation is AI-assisted. These projects demonstrate inspectable prototypes and workflows; commercial impact and player retention have not been established.
 
@@ -31,10 +31,8 @@ I turn ambiguous product ideas into scoped, reviewable releases. My background s
 
 | Project | What to explore |
 | --- | --- |
-| **Retro Air Fighter** | [Play](https://canmils.github.io/retro-air-fighter/) · [Source](https://github.com/canmils/retro-air-fighter) · [Product case study](https://github.com/canmils/retro-air-fighter/blob/main/PORTFOLIO.md) |
 | **Pocket Reels** | [Play](https://canmils.github.io/pocket-reels/) · [Source and exact maths](https://github.com/canmils/pocket-reels) · Fictional credits only |
 | **[AdLens](https://github.com/canmils/adlens)** | Organising visible ad evidence for creative research |
-| **[Weekly Report Agent](https://github.com/canmils/weekly-report-agent)** | Turning production notes into a consistent status report |
 | **[AI Prompts for Game Production](https://github.com/canmils/ai-prompts-for-game-production)** | Editable templates for planning, review and communication |
 
 ## Help shape the next iteration
