@@ -1,42 +1,42 @@
 # Joan Casellas
 
-**Game production · Product ownership · AI-assisted tools**
+**Senior Game Producer · Product Ownership · Technical Delivery · AI-assisted workflows**
 
-Barcelona, Spain · Fully remote across the EU · [LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/)
+Barcelona, Spain · Open to remote opportunities across Spain and EMEA · [LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/)
 
-I turn ambiguous product ideas into scoped, reviewable releases. My background spans regulated game production at Play'n GO, product ownership at Derivco Sports, digital products and technology consulting.
+I turn product ideas into scoped, testable releases. My experience spans regulated iGaming production, product ownership and cross-functional technology delivery. I work with engineers, designers, QA, compliance and external studios—without presenting myself as a software developer.
 
-## Start here
+## Selected projects
 
-| Project | Who it helps | Try it or see the output |
+| Project | What it demonstrates | Explore |
 | --- | --- | --- |
-| **[SteamLens](https://github.com/canmils/steamlens)** | Indie developers reviewing a Steam store page against games they choose | [Worked example](https://github.com/canmils/steamlens/blob/main/examples/README.md) · Free local checklist; optional paid AI |
-| **[Slot PM Agents](https://github.com/canmils/slot-pm-agents)** | Producers and developers deciding what to automate in a slot studio | [Read a portfolio report](https://github.com/canmils/slot-pm-agents/blob/main/examples/portfolio_review/report.md) · Fictional data |
-| **[Retro Air Fighter](https://github.com/canmils/retro-air-fighter)** | Players who want a short 8-bit arcade shooter in the browser | [Play in your browser](https://canmils.github.io/retro-air-fighter/) · [Product case study](https://github.com/canmils/retro-air-fighter/blob/main/PORTFOLIO.md) |
+| **[Slot PM Agents](https://github.com/canmils/slot-pm-agents)** | Evidence-led workflows for slot production, release readiness and portfolio review | [Example release-readiness report](https://github.com/canmils/slot-pm-agents/blob/main/examples/release_readiness/report.md) |
+| **[Retro Air Fighter](https://github.com/canmils/retro-air-fighter)** | Product scoping and AI-assisted delivery of a playable arcade prototype | [Play](https://canmils.github.io/retro-air-fighter/) · [Case study](https://github.com/canmils/retro-air-fighter/blob/main/PORTFOLIO.md) |
+| **[Pocket Reels](https://github.com/canmils/pocket-reels)** | Transparent slot rules and a playable, fictional-credit prototype | [Play](https://canmils.github.io/pocket-reels/) · [Source](https://github.com/canmils/pocket-reels) |
+| **[AI Prompts for Game Production](https://github.com/canmils/ai-prompts-for-game-production)** | Practical templates for production planning, risk review and communication | [Browse templates](https://github.com/canmils/ai-prompts-for-game-production) |
 
-[![Retro Air Fighter start screen: 8-bit plane and the first mission](https://raw.githubusercontent.com/canmils/retro-air-fighter/main/docs/preview.jpg)](https://canmils.github.io/retro-air-fighter/)
+[![Retro Air Fighter gameplay preview](https://raw.githubusercontent.com/canmils/retro-air-fighter/main/docs/preview.jpg)](https://canmils.github.io/retro-air-fighter/)
 
-*Retro Air Fighter: preview image from the repository. [Play](https://canmils.github.io/retro-air-fighter/) · [Source](https://github.com/canmils/retro-air-fighter).*
-
-**My role:** product direction, MVP scope, reference selection and release coordination. Implementation is AI-assisted. These projects demonstrate inspectable prototypes and workflows; commercial impact and player retention have not been established.
+*Retro Air Fighter — [play in your browser](https://canmils.github.io/retro-air-fighter/).*
 
 ## What I bring to a team
 
-- Manage a portfolio of 6–8 games and workstreams, including 2–3 active productions in parallel and approximately 15 releases per year.
-- Coordinate 25+ stakeholders across creative, technical, QA, compliance, commercial and partner functions.
-- Helped reduce reskin production cycles from approximately 18 weeks to 13–15 weeks through clearer milestones, scope controls, parallel workflows and earlier alignment.
-- Previously owned gaming backlogs and release plans across client, backend, platform, security and compliance dependencies.
+- Coordinate **6–8 concurrent game productions and workstreams**, across development, certification and release.
+- Support approximately **15 commercial game releases per year** and align internal teams with external development partners.
+- Helped shorten reskin production cycles from approximately **18 to 10–12 weeks**, through clearer scope, milestones and production workflows.
+- Work across product requirements, QA, compliance, vendor onboarding, technical dependencies and release decisions.
+- Explore AI as a practical tool for faster documentation, better visibility and human-reviewed decision support.
 
-## More to explore
+## How I build
 
-| Project | What to explore |
-| --- | --- |
-| **Pocket Reels** | [Play](https://canmils.github.io/pocket-reels/) · [Source and exact maths](https://github.com/canmils/pocket-reels) · Fictional credits only |
-| **[AdLens](https://github.com/canmils/adlens)** | Organising visible ad evidence for creative research |
-| **[AI Prompts for Game Production](https://github.com/canmils/ai-prompts-for-game-production)** | Editable templates for planning, review and communication |
+My GitHub projects are **small, inspectable experiments**, not claims of production-scale software or verified business impact. I define the problem, user workflow, requirements and acceptance criteria; implementation is often AI-assisted. The README and examples in each repository explain what works and what is still a prototype.
 
-## Help shape the next iteration
+## Other interests
 
-Try one project and report **what you wanted to do, where you got stuck, and what you would change first** in its repository's Issues. For games, include your device/browser and whether you chose to play again. Concrete criticism is welcome.
+- [Catalan Music Radar](https://github.com/canmils/catala-music-radar) — a local script for tracking releases from a chosen list of artists.
 
-For product delivery, gaming platforms or iGaming opportunities, [connect with me on LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/).
+## Connect
+
+I'm interested in **Senior Producer, Technical Product Owner, Delivery Lead and Senior Project Manager** roles, particularly remote opportunities across Spain and EMEA.
+
+[LinkedIn](https://www.linkedin.com/in/joan-casellas-83b2963a/) · [GitHub repositories](https://github.com/canmils?tab=repositories)
